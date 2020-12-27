@@ -1,0 +1,5 @@
+bin/*
+spiegel.db
+Makefile
+Dockerfile
+docker-compose.yml
